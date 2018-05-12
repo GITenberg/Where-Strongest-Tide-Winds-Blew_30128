@@ -1,0 +1,27 @@
+_repo: Where-Strongest-Tide-Winds-Blew_30128
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McReynolds, Robert
+    birthdate: 1854
+    deathdate: 1928
+    gutenberg_agent_id: '34391'
+    url: http://www.gutenberg.org/2009/agents/34391
+description: ''
+gutenberg_issued: '2009-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30128'
+  lccn: 07018596
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+title: Where Strongest Tide Winds Blew
+url: http://www.gutenberg.org/ebooks/30128
